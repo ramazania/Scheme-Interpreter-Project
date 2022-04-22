@@ -1,0 +1,2 @@
+Robbie & Ali
+We recieved help from Ankit (lab assistant) to discuss a segment fault error dealing with the letrec function. He helped us go through our code and gave some insight on what might be causing the error. 

@@ -1,0 +1,1 @@
+onBoot="chmod a+x test-e test-m scheme"
